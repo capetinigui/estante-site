@@ -57,15 +57,9 @@ imagens/       the icon and the app screenshots (English ones in imagens/en/)
 .github/       the images in this README
 ```
 
-## Run it locally
+## Visit the website
 
-From the repository folder:
-
-```bash
-python3 -m http.server
-```
-
-Then open http://localhost:8000 in your browser.
+[capetinigui.github.io/estante-site/en](https://capetinigui.github.io/estante-site/en/)
 
 ## Contact
 

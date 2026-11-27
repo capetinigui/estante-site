@@ -58,15 +58,9 @@ imagens/       o ícone e as fotos do app (as em inglês, em imagens/en/)
 .github/       as imagens deste README
 ```
 
-## Ver no computador
+## Ver o site
 
-Na pasta do repositório:
-
-```bash
-python3 -m http.server
-```
-
-Depois, abra http://localhost:8000 no navegador.
+[capetinigui.github.io/estante-site](https://capetinigui.github.io/estante-site/)
 
 ## Contato
 
